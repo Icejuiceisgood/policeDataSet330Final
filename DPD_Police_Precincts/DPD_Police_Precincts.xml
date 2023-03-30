@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract>The 2014 precinct data provides a comprehensive map of the City of Detroit’s Police Department precincts. The precincts were created by building from the squad car areas dataset published on the City of Detroit’s open data portal in 2014. However, D3 staff revised the precinct geographies to reflect the maps displayed on the police department’s website since the Scout Car Areas didn't line up consistently. It is possible to view each individual precinct boundary and squad car area on the City of Detroit Police Department’s website.  This map was created in order to layout the boundaries of each precinct on one map, providing a complete map of all twelve police precincts. This map was created using ArcMap by Alexis Farmer and D3 staff on July 7, 2015.</abstract>
+            <purpose>This map was created in order to layout the boundaries of each of 12 Detroit Police precincts on one map, providing a complete map.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Police</themekey>
+                <themekey>precincts</themekey>
+                <themekey>DPD</themekey>
+                <themekey>Detroit</themekey>
+                <themekey>public safety</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License</useconst>
+        <datacred>City of Detroit. Data Driven Detroit. July 2015.</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
